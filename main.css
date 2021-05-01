@@ -111,6 +111,9 @@ footer-main *{
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   margin:0;
+  align-items: center;
+  margin-left: 30px;
+  padding-left: 40px;
 }
 .footer h3 span{
   color: lightseagreen
@@ -138,7 +141,7 @@ footer-main *{
 }
 .footer .footer-center{
   width:35%;
-  margin-left: 195px
+  margin-left: 180px
 }
 .footer .footer-center i{
   width:36px;
@@ -188,6 +191,7 @@ footer-main *{
 }
 .footer .footer-right{
   width:20%;
+  margin-left: 40px;
 }
 .footer .footer-company-about{
   line-height: 20px;
@@ -200,7 +204,7 @@ footer-main *{
 .footer .footer-comapny-about span{
   display: block;
   color: #fff;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   margin-bottom: 20px;
   font-family: 'Raleway', sans-serif;
